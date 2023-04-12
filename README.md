@@ -4,7 +4,7 @@ A Python program to calculate the factorials of a range of numbers and display a
 
 # Prerequisites
 
-- Tested on CPython 2.7, 3.7, 3.8, 3.9 and 3.10 and Pypy 2.7 and 3.8.
+- Python (Tested on CPython 2.7, 3.7, 3.8, 3.9 and 3.10 and Pypy 2.7 and 3.8.)
 
 - The following packages: math, colorama
 
